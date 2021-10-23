@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/r3f-character-demo/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/r3f-character-demo/static/js/main.0aa96889.chunk.js",
+    "main.js.map": "/r3f-character-demo/static/js/main.0aa96889.chunk.js.map",
+    "runtime-main.js": "/r3f-character-demo/static/js/runtime-main.4e6274bb.js",
+    "runtime-main.js.map": "/r3f-character-demo/static/js/runtime-main.4e6274bb.js.map",
+    "static/js/2.0f55402d.chunk.js": "/r3f-character-demo/static/js/2.0f55402d.chunk.js",
+    "static/js/2.0f55402d.chunk.js.map": "/r3f-character-demo/static/js/2.0f55402d.chunk.js.map",
+    "static/js/3.d09a2b36.chunk.js": "/r3f-character-demo/static/js/3.d09a2b36.chunk.js",
+    "static/js/3.d09a2b36.chunk.js.map": "/r3f-character-demo/static/js/3.d09a2b36.chunk.js.map",
+    "index.html": "/r3f-character-demo/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/r3f-character-demo/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.0f55402d.chunk.js.LICENSE.txt": "/r3f-character-demo/static/js/2.0f55402d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e6274bb.js",
+    "static/js/2.0f55402d.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.0aa96889.chunk.js"
+  ]
+}
